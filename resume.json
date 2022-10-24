@@ -1,1 +1,116 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"hidden":true},"profile":{"name":"刘容光","email":"291319399@qq.com","mobile":"17688798291","github":"","zhihu":"","workExpYear":"","workPlace":"","positionTitle":"U3D开发"},"educationList":[],"awardList":[],"workExpList":[{"work_time":"2021.04,2022.10","company_name":"优必选科技股份有限公司","department_name":"ECBG","work_desc":"基本框架编写。\n对双端的性能进行分析，优化。\n对原有的UI布局重新搭建。\n对地图编辑器进行扩展。\n","dataIndex":0},{"work_time":"2020.06,2021.04","company_name":"北京市时空立方","department_name":"《斗破苍穹》","work_desc":"Lua框架，特效模块，Buff系统，技能系统，背包系统维护。\n对于运营活动需求制作。\n扩展原功能。\n编辑器功能扩展\n","dataIndex":1},{"work_time":"2019.06,2020.06","company_name":"深圳市戮默科技有限公司","department_name":"黑马工作室","work_desc":"负责客户端框架与功能开发。\n对原框架全c#开发扩展为c#+xlua的热更框架。\n负责制定客户端核心代码框架，架构设计。\n负责关键功能模块的设计与实现\n根据设计文档完成代码编写，调试测试和维护。\n制定客户端的编写规范，制作开发文档\n与策划进行敏捷开发\n负责Android和ios的双端sdk接入。\n制作Unity编辑器的扩展工具。\n负责对接海外的需求及翻译。\n","dataIndex":2},{"work_time":"2017.02,2019.05","company_name":"深圳市千羽手游有限公司","department_name":"研发部","work_desc":"协助主程完成战斗模块的编写。\n负责分配与自己的功能模块编写，按时完成任务。\n根据策划要求与美术一起协作完成任务。\n分析并解决测试提出的bug。\n","dataIndex":3}],"skillList":[],"projectList":[],"workList":[],"aboutme":{"aboutme_desc":"       自驱型前端工程师，有多款从0到1的开发经验，担任过前端开发组长。对一个不支持热更的项目加入了热更框架。热衷于新技术的学习，可以根据公司需要而快速进入新技术的开发。\n熟练C#，Lua语言。\n熟悉基本的数据结构和算法。\n熟悉UGUI，AB以及xlua热更新。"},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+	"titleNameMap": {
+		"educationList": "教育背景",
+		"workExpList": "工作经历",
+		"projectList": "项目经历",
+		"skillList": "个人技能",
+		"awardList": "更多信息",
+		"workList": "个人作品",
+		"aboutme": "自我介绍"
+	},
+	"avatar": {
+		"hidden": true
+	},
+	"profile": {
+		"name": "刘容光",
+		"email": "291319399@qq.com",
+		"mobile": "17688798291",
+		"github": "",
+		"zhihu": "",
+		"workExpYear": "",
+		"workPlace": "",
+		"positionTitle": "U3D开发"
+	},
+	"educationList": [],
+	"awardList": [],
+	"workExpList": [
+		{
+			"work_time": [
+				"2021.04",
+				"2022.10"
+			],
+			"company_name": "优必选科技股份有限公司",
+			"department_name": "ECBG",
+			"work_desc": "1.\t《优优狗》《Repcity》项目开发。\n2.\t基本框架编写。\n3.\t对双端的性能进行分析，优化。\n4.\t对原有的UI布局重新搭建。\n5.\t对地图编辑器进行扩展。\n",
+			"dataIndex": 0
+		},
+		{
+			"work_time": [
+				"2020.06",
+				"2021.04"
+			],
+			"company_name": "北京市时空立方",
+			"department_name": "《斗破苍穹》",
+			"work_desc": "1.\t《斗破苍穹》维护，制作。\n2.\tLua框架，特效模块，Buff系统，技能1.  系统，背包系统维护。\n3.\t对于运营活动需求制作。\n4.\t扩展原功能。\n5.\t编辑器功能扩展\n",
+			"dataIndex": 1
+		},
+		{
+			"work_time": [
+				"2019.06",
+				"2020.06"
+			],
+			"company_name": "深圳市戮默科技有限公司",
+			"department_name": "黑马工作室",
+			"work_desc": "1.\t《龙之剑圣》从0到1的开发\n2.\t负责客户端框架与功能开发。\n3.\t对原框架全c#开发扩展为c#+xlua的热更框架。\n4.\t负责制定客户端核心代码框架，架构设计。\n5.\t负责关键功能模块的设计与实现\n6.\t根据设计文档完成代码编写，调试测试和维护。\n7.\t制定客户端的编写规范，制作开发文档\n8.\t与策划进行敏捷开发\n9.\t负责Android和ios的双端sdk接入。\n10.\t制作Unity编辑器的扩展工具。\n11.\t负责对接海外的需求及翻译。\n",
+			"dataIndex": 2
+		},
+		{
+			"work_time": [
+				"2017.02",
+				"2019.05"
+			],
+			"company_name": "深圳市千羽手游有限公司",
+			"department_name": "研发部",
+			"work_desc": "1.\t《勇闯三国》手游从0至1开发\n2.\t协助主程完成战斗模块的编写。\n3.\t负责分配与自己的功能模块编写，按时完成任务。\n4.\t根据策划要求与美术一起协作完成任务。\n5.\t分析并解决测试提出的bug。\n",
+			"dataIndex": 3
+		}
+	],
+	"skillList": [],
+	"projectList": [
+		{
+			"project_time": "2022.02-2022.10",
+			"project_name": "《Repcity》",
+			"project_role": "U3D开发",
+			"project_desc": "一款虚实互动的APP，在没有实物的情况下可以使用软件模拟实际使用的场景。",
+			"project_content": "\n1.\t系统管理框架搭建。\n2.\t网络框架搭建。\n3.\t资源管理框架搭建。\n4.\tUI框架搭建。\n5.\t自动构建编写。\n6.\t事件框架搭建。\n7.\t基础功能编写。",
+			"dataIndex": 0
+		},
+		{
+			"project_time": "2021.04-2022.02",
+			"project_name": "《优优狗》",
+			"project_role": "U3D开发",
+			"project_desc": "一款专为零基础孩子精心打造的3D全场景沉浸式在线编程课程。",
+			"project_content": "\n1.\t重写广播系统，可以更灵活的控制事件绑定以及分发。\n2.\t编写有限状态机系统，便于灵活控制某个功能的状态。\n3.\t画布滑动限制功能。\n4.\t剧情系统编写，通过lua来确定每一课的剧情走向。\n5.\t地图编辑系统扩展，增加地块的属性来完成死亡系统。\n6.\t优化UI布局，从杂乱的ui分割出动静分离。\n7.\t排查UI性能问题，如空的image按钮检测，图集的整合。\n8.\t剧情制作，完成产品每一课的剧情需要。\n9.\t移动系统重构。\n",
+			"dataIndex": 1
+		},
+		{
+			"project_time": "2020.06-2021.04",
+			"project_name": "《斗破苍穹》",
+			"project_role": "U3D开发",
+			"project_desc": "《斗破苍穹》是一款大型3D MMORPG。以天蚕土豆编著的《斗破苍穹》同名手游。",
+			"project_content": "\n1.\t负责维护Lua框架，特效，Buff系统，技能系统，道具系统。\n2.\t制作新年活动活动。\n3.\t制作时装商店。\n4.\t制作元神功能扩展。\n5.\t扩展原排位赛赛事类型。\n6.\t扩展装备道具功能。\n"
+		},
+		{
+			"project_time": "2019.06-2020.06",
+			"project_name": "《龙之剑圣》",
+			"project_role": "U3D开发",
+			"project_desc": "《龙之剑圣》是一款卡牌RPG游戏。在三国的阵容基础上增加了仙侠阵容，区别与其他卡牌游戏做了大量的创新。",
+			"project_content": "\n1.\t编写开发文档，开发代码书写规范。\n2.\t制作世界Boss玩法及配套的装备扩展，此装备可增加属性以及在对应的角色上面增加特效。\n3.\t完善抽卡界面的动画特效。\n4.\t制作爬塔游戏玩法，此玩法包含三个功能。包括抽奖，排行榜，以及爬塔。\n5.\t铸剑系统的开发，以及后续的更改。\n6.\t背包系统开发，各类通用面板制作。\n7.\t制作Prefab寻找依赖工具。\n8.\t制作在全部的Prefab中寻找图集中的Sprite\n9.\t替换代码以及Prefab中的中文，替换为翻译表中的ID。\n10.\tAndroid与ios的双端sdk接入以及发布。\n11.\t制作Android以及的IOS的简单自动打包工具。\n12.\t在原有的框架上搭建Xlua热更框架，以及AB资源打包，加载。\n13.\t与海外发行对接本地化，以及接入海外双端SDK，打包上架。"
+		},
+		{
+			"project_time": "2017.02-2019.03",
+			"project_name": "《勇闯三国》",
+			"project_role": "U3D开发",
+			"project_desc": "《勇闯三国》以超爽合击技、酷炫战斗为主打的二次元RPG立体卡牌手游，包含一百多名风格独特的英雄人物模型，以三国故事为背景，颠覆传统美术极限，经百名画师之手，每名武将都具有其独特的外观。",
+			"project_content": "\n1.\t卡牌系统的制作。包含属性的计算，详细描述的展示，技能的释放，升级品质以及进化，进阶等相关功能。\n2.\t装备系统的制作。包含属性的计算，详细信息展示，穿戴卸下，升级品质等相关功能\n3.\t法宝的制作。包含属性的计算，详细信息展示，穿戴卸下合成等相关功能\n4.\t道具系统的制作。包含道具买卖使用以及描述的展示。\n5.\t背包的制作。包含卡牌，装备，法宝道具的背包系统。\n6.\t分解重生系统。包含对于非主角卡牌，装备，法宝分解以及重生，\n7.\t聊天的开发以及混排制作。\n8.\t各类活动以及新功能模块的研发。\n9.\t制作新手引导。\n"
+		}
+	],
+	"workList": [],
+	"aboutme": {
+		"aboutme_desc": "       自驱型前端工程师，有多款从0到1的开发经验，担任过前端开发组长。对一个不支持热更的项目加入了热更框架。热衷于新技术的学习，可以根据公司需要而快速进入新技术的开发。\n熟练C#，Lua语言。\n熟悉基本的数据结构和算法。\n熟悉UGUI，AB以及xlua热更新。"
+	},
+	"theme": {
+		"color": "#2f5785",
+		"tagColor": "#8bc34a"
+	}
+}
